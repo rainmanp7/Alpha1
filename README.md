@@ -1,5 +1,10 @@
 # Alpha1 and Alpha2 Congestion Control Algorithms
 THIS is Strictly ALPHA / BETA Testing...
+The purpose is to create a congestion control so
+that I can simply call it by sysctl configuration for
+my network to improve multiple things. You want to helpp
+implement this? Make it possible? Why not try it or help me make
+this possible...
 
 This repository contains two congestion control algorithms: Alpha1 and Alpha2.
 
