@@ -1,4 +1,5 @@
 # Alpha1 and Alpha2 Congestion Control Algorithms
+THIS is Strictly ALPHA / BETA Testing...
 
 This repository contains two congestion control algorithms: Alpha1 and Alpha2.
 
